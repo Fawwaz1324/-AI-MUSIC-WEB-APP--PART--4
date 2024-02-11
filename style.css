@@ -1,0 +1,65 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_pp
+{
+    float: left;
+}
+
+.div_pp_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#pp
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+ .div_hp
+{
+    float: right;
+}
+
+.div_hp_img
+{
+    width: 300px;
+    border-radius: 100px;
+}
+
+#hp
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 11%;
+    border-radius: 20px;
+    background-color: #5d76b0;
+    font-size: 30px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
